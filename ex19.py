@@ -1,8 +1,8 @@
-def cheese_and_crackers(cheese_count, boxes_of_crackers):
-    print(f"You have {cheese_count} cheeses!")
+def cheese_and_crackers(cheese_count, boxes_of_crackers):      # defined a function named "cheese_and_crackers".
+    print(f"You have {cheese_count} cheeses!")                 # 
     print(f"YOu have {boxes_of_crackers} boxes of crackers!")
-    print("Man that's enough for a party!")
-    print("Get a blanket.\n")
+    print("Man that's enough for a party!")                    # print out to the screen a string "......"
+    print("Get a blanket.\n")                                  # print out a string "......", `\n` is a line separator.
 
 
 print("We can just give the function numbers directly:")
